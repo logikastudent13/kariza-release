@@ -3,6 +3,11 @@
     background-image:linear-gradient(to right,#B81515,#A1130C)  ;
     color: white;
 }
+main{
+ display:flex;
+ flex-direction:column;
+ gap:30px;
+}
 h1{
     text-align: center;
 }
@@ -13,7 +18,7 @@ h2{
 
 .hero{
     border: 5px solid black;
-    padding: 0;
+    padding: 10px;
     margin: 0;
     border-radius: 10px;
 }
