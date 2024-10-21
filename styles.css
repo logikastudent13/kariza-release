@@ -4,6 +4,11 @@ body {
     color: white;
 
 }
+main{
+    display:flex;
+    gap:30px;
+    flex-direction:column;
+}
 h1{
     text-align: center;
     color:white;
